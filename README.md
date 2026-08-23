@@ -125,7 +125,7 @@ I want to become an **AI/Agent Developer** capable of designing, developing and 
 
 I'm always interested in learning, building projects and connecting with people interested in **AI, LLMs, Agentic AI and technology**.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://github.com/hibaqureshi-22)
 
 ---
 
